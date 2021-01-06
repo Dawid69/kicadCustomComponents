@@ -1,0 +1,4 @@
+# Add or remove folders as they are needed.
+*.html
+KiCAD/
+STEP/
